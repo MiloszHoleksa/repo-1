@@ -1,0 +1,1 @@
+Biblioteka zalizceniowa z przedmiotu "Narzędzia programistyczne w pythonie, wspierające analizę danych."
