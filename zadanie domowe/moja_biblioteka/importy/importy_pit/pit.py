@@ -46,16 +46,6 @@ def przetworz_miasto_pp(miasto):
     return miasto
 
 
-'''
-def wczytaj_wojewodztwo(filepath):
-    woj = pd.read_excel(filepath
-                           , names=["WK", "PK", "GK", "GT", "Nazwa JST", "województwo", "należności", "dochody wykonane"]
-                             , skiprows = lambda x: x in range (0,6)
-                             , usecols= "E,K"
-                            , dtype= {"WK": str, "PK": str}
-                                )
-    return woj
-'''
 
 
 def wczytaj_wojewodztwo(filepath):
